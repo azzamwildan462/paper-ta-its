@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.11)  27 JUL 2024 22:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.11)  2 AUG 2024 00:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -558,13 +558,7 @@ Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip setti
 \c@dblbotnumber=\count352
 ) (./pustaka/variables.tex) (./pustaka/tanda-hubung.tex) (./paper-en.aux
 
-LaTeX Warning: Label `fig:webrobot' multiply defined.
-
-
-LaTeX Warning: Label `sec:analisispengujian' multiply defined.
-
-
-LaTeX Warning: Label `sec:analisispengujian' multiply defined.
+LaTeX Warning: Label `sec:3' multiply defined.
 
 )
 \openout1 = `paper-en.aux'.
@@ -633,17 +627,17 @@ Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on inp
 
 
 ]
-<gambar/omnivisino2.jpeg, id=144, 948.54375pt x 704.6325pt>
+<gambar/omnivisino2.jpeg, id=124, 948.54375pt x 704.6325pt>
 File: gambar/omnivisino2.jpeg Graphic file (type jpg)
 <use gambar/omnivisino2.jpeg>
 Package pdftex.def Info: gambar/omnivisino2.jpeg  used on input line 43.
 (pdftex.def)             Requested size: 170.71652pt x 126.81763pt.
-<gambar/omnivision3.jpg, id=147, 60.225pt x 45.65054pt>
+<gambar/omnivision3.jpg, id=127, 60.225pt x 45.65054pt>
 File: gambar/omnivision3.jpg Graphic file (type jpg)
 <use gambar/omnivision3.jpg>
 Package pdftex.def Info: gambar/omnivision3.jpg  used on input line 52.
 (pdftex.def)             Requested size: 170.71652pt x 129.41576pt.
-<gambar/iris1.jpeg, id=154, 1204.5pt x 1606.0pt>
+<gambar/iris1.jpeg, id=134, 1204.5pt x 1606.0pt>
 File: gambar/iris1.jpeg Graphic file (type jpg)
 <use gambar/iris1.jpeg>
 Package pdftex.def Info: gambar/iris1.jpeg  used on input line 92.
@@ -652,127 +646,221 @@ Package pdftex.def Info: gambar/iris1.jpeg  used on input line 92.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.131 
-      
+l.100 S
+       ensor that commonly used in Mobile Robot is camera. The camera can be...
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.131 
-      
+l.100 S
+       ensor that commonly used in Mobile Robot is camera. The camera can be...
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.131 
-       <./gambar/omnivisino2.jpeg> <./gambar/omnivision3.jpg> <./gambar/iris1.jpeg>]) (./konten/en/3-design-and-implementation.tex
-<gambar/desain_sistem_vfix.png, id=178, 1209.4597pt x 522.8947pt>
-File: gambar/desain_sistem_vfix.png Graphic file (type png)
-<use gambar/desain_sistem_vfix.png>
-Package pdftex.def Info: gambar/desain_sistem_vfix.png  used on input line 9.
-(pdftex.def)             Requested size: 227.62204pt x 98.40953pt.
-<gambar/ambil_data.jpeg, id=179, 1208.515pt x 1606.0pt>
-File: gambar/ambil_data.jpeg Graphic file (type jpg)
-<use gambar/ambil_data.jpeg>
-Package pdftex.def Info: gambar/ambil_data.jpeg  used on input line 32.
-(pdftex.def)             Requested size: 142.26378pt x 189.03584pt.
-<gambar/iris_web.jpeg, id=180, 271.0125pt x 481.8pt>
+l.100 S
+       ensor that commonly used in Mobile Robot is camera. The camera can be... <./gambar/omnivisino2.jpeg> <./gambar/omnivision3.jpg> <./gambar/iris1.jpeg>]) (./konten/en/3-design-and-implementation.tex
+<gambar/anu2.jpg, id=153, 1445.4pt x 813.0375pt>
+File: gambar/anu2.jpg Graphic file (type jpg)
+<use gambar/anu2.jpg>
+Package pdftex.def Info: gambar/anu2.jpg  used on input line 11.
+(pdftex.def)             Requested size: 227.62204pt x 128.02927pt.
+<gambar/iris_web.jpeg, id=154, 271.0125pt x 481.8pt>
 File: gambar/iris_web.jpeg Graphic file (type jpg)
 <use gambar/iris_web.jpeg>
-Package pdftex.def Info: gambar/iris_web.jpeg  used on input line 41.
-(pdftex.def)             Requested size: 142.26378pt x 252.91937pt.
- [3
+Package pdftex.def Info: gambar/iris_web.jpeg  used on input line 20.
+(pdftex.def)             Requested size: 170.71652pt x 303.5062pt.
+<gambar/ambil_data_new.jpg, id=155, 1927.2pt x 1084.05pt>
+File: gambar/ambil_data_new.jpg Graphic file (type jpg)
+<use gambar/ambil_data_new.jpg>
+Package pdftex.def Info: gambar/ambil_data_new.jpg  used on input line 29.
+(pdftex.def)             Requested size: 341.43306pt x 192.0439pt.
+
+Overfull \hbox (89.43306pt too wide) in paragraph at lines 29--30
+ [][] 
+ []
+
+<gambar/web_zoom.jpg, id=156, 1927.2pt x 1084.05pt>
+File: gambar/web_zoom.jpg Graphic file (type jpg)
+<use gambar/web_zoom.jpg>
+Package pdftex.def Info: gambar/web_zoom.jpg  used on input line 38.
+(pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
+
+Overfull \hbox (32.52756pt too wide) in paragraph at lines 38--39
+ [][] 
+ []
+
+[3
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.82 
+l.42 
      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.82 
+l.42 
      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.82 
-      <./gambar/desain_sistem_vfix.png (PNG copy)> <./gambar/ambil_data.jpeg> <./gambar/iris_web.jpeg>]
-Overfull \hbox (9.53972pt too wide) detected at line 132
-[][][][] \OT1/cmr/m/n/10 : [][]
+l.42 
+      <./gambar/anu2.jpg> <./gambar/iris_web.jpeg> <./gambar/ambil_data_new.jpg>]
+<gambar/bab3223.jpg, id=168, 1445.4pt x 813.0375pt>
+File: gambar/bab3223.jpg Graphic file (type jpg)
+<use gambar/bab3223.jpg>
+Package pdftex.def Info: gambar/bab3223.jpg  used on input line 98.
+(pdftex.def)             Requested size: 284.52756pt x 160.049pt.
+
+Overfull \hbox (32.52756pt too wide) in paragraph at lines 98--99
+ [][] 
  []
 
-) (./konten/en/4-result-discussion.tex
-<gambar/visual1.png, id=193, 324.2514pt x 265.4718pt>
-File: gambar/visual1.png Graphic file (type png)
-<use gambar/visual1.png>
-Package pdftex.def Info: gambar/visual1.png  used on input line 11.
-(pdftex.def)             Requested size: 142.26378pt x 116.47173pt.
+
+Overfull \hbox (39.48586pt too wide) detected at line 115
+[][][][][]
+ []
+
+
+Overfull \hbox (24.13622pt too wide) detected at line 121
+[][][][][]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [4
-pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.22 
-     
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.22 
-      <./gambar/visual1.png>]
-<gambar/saat_putar_bola_2.jpeg, id=212, 413.07265pt x 219.64412pt>
-File: gambar/saat_putar_bola_2.jpeg Graphic file (type jpg)
-<use gambar/saat_putar_bola_2.jpeg>
-Package pdftex.def Info: gambar/saat_putar_bola_2.jpeg  used on input line 25.
-(pdftex.def)             Requested size: 227.62204pt x 121.03587pt.
- [5
+l.158 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.158 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.142 
-      
+l.158 
+       <./gambar/web_zoom.jpg> <./gambar/bab3223.jpg>]
+<gambar/anu.jpg, id=182, 1445.4pt x 813.0375pt>
+File: gambar/anu.jpg Graphic file (type jpg)
+<use gambar/anu.jpg>
+Package pdftex.def Info: gambar/anu.jpg  used on input line 165.
+(pdftex.def)             Requested size: 227.62204pt x 128.02927pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+[]\T1/ptm/m/n/10 The ar-chi-tec-ture of the Multi-Layer Per-cep-tron
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 170--171
+\T1/ptm/m/n/10 con-sists of 2 hid-den lay-ers, each with 36 neu-rons.
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 170--171
+\T1/ptm/m/n/10 Mean-while, for the in-put layer con-sists of 2 neu-rons
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+\T1/ptm/m/n/10 in the form of $\OML/cmm/m/it/10 jarak[]objek[]pada[]kamera$ \T1/ptm/m/n/10 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+\OML/cmm/m/it/10 arah[]objek[]pada[]kamera$\T1/ptm/m/n/10 . The out-put layer con-sists
+ []
+
+<gambar/anu3.jpg, id=183, 1445.4pt x 813.0375pt>
+File: gambar/anu3.jpg Graphic file (type jpg)
+<use gambar/anu3.jpg>
+Package pdftex.def Info: gambar/anu3.jpg  used on input line 214.
+(pdftex.def)             Requested size: 227.62204pt x 128.02927pt.
+<gambar/threshold.jpg, id=184, 1927.2pt x 1084.05pt>
+File: gambar/threshold.jpg Graphic file (type jpg)
+<use gambar/threshold.jpg>
+Package pdftex.def Info: gambar/threshold.jpg  used on input line 227.
+(pdftex.def)             Requested size: 227.62204pt x 128.02927pt.
+[5
 pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.142 
+l.231 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.231 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.231 
+       <./gambar/anu.jpg> <./gambar/anu3.jpg>]
+<gambar/linear.jpg, id=197, 1927.2pt x 1084.05pt>
+File: gambar/linear.jpg Graphic file (type jpg)
+<use gambar/linear.jpg>
+Package pdftex.def Info: gambar/linear.jpg  used on input line 258.
+(pdftex.def)             Requested size: 227.62204pt x 128.02927pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+[] $\OML/cmm/m/it/10 ball[]x[]global \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 robot[]pose[]x \OT1/cmr/m/n/10 +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+\OML/cmm/m/it/10 ball[]distance[]world[]local \OMS/cmsy/m/n/10 ^^B []\OT1/cmr/m/n/10 ([] \OMS/cmsy/m/n/10 ^^B
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+[] $\OML/cmm/m/it/10 ball[]y[]global \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 robot[]pose[]y \OT1/cmr/m/n/10 +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+\OML/cmm/m/it/10 ball[]distance[]world[]local \OMS/cmsy/m/n/10 ^^B []\OT1/cmr/m/n/10 ([] \OMS/cmsy/m/n/10 ^^B
+ []
+
+) (./konten/en/4-result-discussion.tex [6
+pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.8 
+    
+pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.8 
+     <./gambar/threshold.jpg> <./gambar/linear.jpg>]
+<gambar/saat_putar_bola_2.jpeg, id=208, 413.07265pt x 219.64412pt>
+File: gambar/saat_putar_bola_2.jpeg Graphic file (type jpg)
+<use gambar/saat_putar_bola_2.jpeg>
+Package pdftex.def Info: gambar/saat_putar_bola_2.jpeg  used on input line 11.
+(pdftex.def)             Requested size: 227.62204pt x 121.03587pt.
+ [7
+pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.189 
       
 pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.142 
+l.189 
       
 pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.142 
-       <./gambar/saat_putar_bola_2.jpeg>]
-<gambar/cam_raw1.jpg, id=223, 224.84pt x 169.63374pt>
-File: gambar/cam_raw1.jpg Graphic file (type jpg)
-<use gambar/cam_raw1.jpg>
-Package pdftex.def Info: gambar/cam_raw1.jpg  used on input line 193.
-(pdftex.def)             Requested size: 199.16928pt x 150.27208pt.
-<gambar/cam_raw2.jpg, id=224, 217.81375pt x 145.54375pt>
-File: gambar/cam_raw2.jpg Graphic file (type jpg)
-<use gambar/cam_raw2.jpg>
-Package pdftex.def Info: gambar/cam_raw2.jpg  used on input line 202.
-(pdftex.def)             Requested size: 199.16928pt x 133.0846pt.
- [6
+l.189 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{table.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.244 \end{equation}
-                    
-pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.244 \end{equation}
-                    
-pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.244 \end{equation}
-                     <./gambar/cam_raw1.jpg> <./gambar/cam_raw2.jpg>]) (./konten/en/5-conclusion.tex) (./paper-en.bbl [7
-pdfTeX warning (ext4): destination with the same identifier (name{table.6}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.50 
-     ])
+l.189 
+       <./gambar/saat_putar_bola_2.jpeg>]) (./konten/en/5-conclusion.tex) (./paper-en.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -785,9 +873,15 @@ Before submitting the final camera ready copy, remember to:
  process uses the appropriate paper size.
 
 
-Overfull \vbox (1.73193pt too high) has occurred while \output is active []
+Package balance Warning: You have called \balance in second column
+(balance)                Columns might not be balanced.
 
- [8] (./paper-en.aux)
+[8
+pdfTeX warning (ext4): destination with the same identifier (name{table.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.126 \end{document}
+                    ] (./paper-en.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
@@ -797,21 +891,21 @@ L3 programming layer <2023-11-01>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `paper-en.out' has not changed.
-(rerunfilecheck)             Checksum: B4C808D6C8B4DBD458B274911A79810C;4732.
+(rerunfilecheck)             Checksum: 9B8207287E62EF5143E2E1DDDE6B4EBD;3881.
  ) 
 Here is how much of TeX's memory you used:
- 16611 strings out of 474272
- 264532 string characters out of 5719350
- 1959530 words of memory out of 5000000
- 38310 multiletter control sequences out of 15000+600000
- 678696 words of font info for 168 fonts, out of 8000000 for 9000
+ 16612 strings out of 474272
+ 264475 string characters out of 5719350
+ 1956530 words of memory out of 5000000
+ 38323 multiletter control sequences out of 15000+600000
+ 677148 words of font info for 163 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 94i,11n,117p,849b,600s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on paper-en.pdf (8 pages, 1170431 bytes).
+ 94i,11n,117p,1447b,443s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on paper-en.pdf (8 pages, 1616802 bytes).
 PDF statistics:
- 316 PDF objects out of 1000 (max. 8388607)
- 269 compressed objects within 3 object streams
- 79 named destinations out of 1000 (max. 500000)
- 303 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 287 PDF objects out of 1000 (max. 8388607)
+ 241 compressed objects within 3 object streams
+ 77 named destinations out of 1000 (max. 500000)
+ 278 words of extra memory for PDF output out of 10000 (max. 10000000)
 
