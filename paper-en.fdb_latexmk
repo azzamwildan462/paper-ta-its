@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex paper-en"] 1722099408 "paper-en.aux" "paper-en.bbl" "paper-en" 1722532396 0
+["bibtex paper-en"] 1722572038 "paper-en.aux" "paper-en.bbl" "paper-en" 1722572041 0
   "./pustaka/pustaka.bib" 1715324359 4732 bb799f2cf8695b1d0ca0692798d070a9 ""
   "/opt/texlive/2023/texmf-dist/bibtex/bst/ieeetran/IEEEtranN.bst" 1699709184 63583 d34cb6c328acc69716207f4a3421ad46 ""
-  "paper-en.aux" 1722532395 11381 afbb4884e971743331b3e36a44a86b94 "pdflatex"
+  "paper-en.aux" 1722572040 11383 fd222e2a072a480cb4777fdbc5cb87a4 "pdflatex"
   (generated)
   "paper-en.bbl"
   "paper-en.blg"
   (rewritten before read)
-["pdflatex"] 1722532394 "/home/wildan/proyek/ta2/paper-ta-its/paper-en.tex" "paper-en.pdf" "paper-en" 1722532396 0
+["pdflatex"] 1722572039 "/home/wildan/proyek/ta2/paper-ta-its/paper-en.tex" "paper-en.pdf" "paper-en" 1722572041 0
   "/home/wildan/proyek/ta2/paper-ta-its/paper-en.tex" 1720703819 3462 683e4e83e01f680e7ee18d73db239ac0 ""
   "/opt/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1699709184 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1699709184 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -176,11 +176,11 @@
   "konten/en/1-introduction.tex" 1719471527 1511 b1166971da686a5e157a8fde20f6fa35 ""
   "konten/en/2-literature-review.tex" 1722097811 9155 5d8f0cb9cb42220582b0e5b8ca3bca38 ""
   "konten/en/3-design-and-implementation.tex" 1722098848 15160 6a388b48f6206032d0403263f2253235 ""
-  "konten/en/4-result-discussion.tex" 1722100422 12835 9e61fa34b67e6dafa3c8ac6793f9042e ""
+  "konten/en/4-result-discussion.tex" 1722572035 12846 02b8729bfac3a9329f63f07f0f72f11f ""
   "konten/en/5-conclusion.tex" 1719475021 1675 02fa6b20ee9401ac277503d3c023a93d ""
-  "paper-en.aux" 1722532395 11381 afbb4884e971743331b3e36a44a86b94 "pdflatex"
-  "paper-en.bbl" 1722099408 3487 cd09be9210af472b728815e495e1d2e2 "bibtex paper-en"
-  "paper-en.out" 1722532395 3881 9b8207287e62ef5143e2e1ddde6b4ebd "pdflatex"
+  "paper-en.aux" 1722572040 11383 fd222e2a072a480cb4777fdbc5cb87a4 "pdflatex"
+  "paper-en.bbl" 1722572039 3487 cd09be9210af472b728815e495e1d2e2 "bibtex paper-en"
+  "paper-en.out" 1722572040 3881 9b8207287e62ef5143e2e1ddde6b4ebd "pdflatex"
   "paper-en.tex" 1720703819 3462 683e4e83e01f680e7ee18d73db239ac0 ""
   "pustaka/tanda-hubung.tex" 1714746456 112 d9be753c60703abb1f68448f9656fc2b ""
   "pustaka/variables.tex" 1715323813 1237 3245429c3ba62c1e80369586b2596cff ""
